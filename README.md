@@ -11,8 +11,6 @@
     <h3>Contato</h3>
   <a href="www.linkedin.com/in/hiran-whites" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "hiran.whites@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    
-    ![Snake animation](https://github.com/Ph-12/Ph-12/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ##
